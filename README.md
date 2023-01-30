@@ -29,6 +29,10 @@ we can sample their value anywhere in feature space. Your function will display 
 that shows the training data as a scatter plot with the decision tree approximation as a
 background.
 
+  Here is an example: 
+<br/>
+  ![alt text](/images/460gExampleData.PNG "ExampleData")
+<br/>
 Your approach must meet the following criteria:
 * show the training data and clearly distinguish between the class labels: you can color
 code the labels or use different markers
